@@ -1,42 +1,37 @@
 .gnb {
-    border: 1px solid;
-    padding: 10px 20px;
+  border: 1px solid;
+  padding: 10px 20px;
 }
 
 .gnb--list {
-    display: flex;
-    justify-content: flex-end;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .gnb--list-item {
-    list-style: none;
-    padding: 0;
+  list-style: none;
+  padding: 0;
 }
 
 .gnb--list-item + .gnb--list-item {
-    margin-left: 20px;
+  margin-left: 20px;
 }
-
 
 .gnb--flex {
-    display: flex;
-    justify-content: space-between;
-    align-content: center;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
 }
 
-
-
 #rock--image {
-    width: 70px;
-    height: 70px;
+  width: 70px;
+  height: 70px;
 }
 
 nav ul span {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .gnb--flex a {
-    text-decoration: none
-}
-
+  text-decoration: none;
 }
