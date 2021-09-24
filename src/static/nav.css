@@ -16,3 +16,22 @@
 .gnb--list-item + .gnb--list-item {
   margin-left: 20px;
 }
+
+.gnb--flex {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+#rock--image {
+  width: 70px;
+  height: 70px;
+}
+
+nav ul span {
+  font-weight: bold;
+}
+
+.gnb--flex a {
+  text-decoration: none;
+}
