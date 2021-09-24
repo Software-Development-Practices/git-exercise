@@ -17,6 +17,33 @@
   margin-left: 20px;
 }
 
+.index-gnb {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 1px solid black;
+  background-color: #e4e8eb;
+  border-radius: 10px;
+}
+
+.index-gnb .index-gnb-list {
+  margin: 0;
+  padding: 10px 5opx;
+  overflow: hidden;
+}
+
+.index-gnb .index-gnb-list
+.index-gnb-list-item {
+  float: right;
+  margin-right: 30px;
+  list-style: none;
+}
+
+.index-gnb .index-gnb-list
+.index-gnb-list-item
+a {
+  text-decoration: none;
+  color: black;
+}
 .gnb--flex {
   display: flex;
   justify-content: space-between;
