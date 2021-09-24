@@ -1,0 +1,18 @@
+.gnb {
+  border: 1px solid;
+  padding: 10px 20px;
+}
+
+.gnb--list {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.gnb--list-item {
+  list-style: none;
+  padding: 0;
+}
+
+.gnb--list-item + .gnb--list-item {
+  margin-left: 20px;
+}
