@@ -31,16 +31,31 @@
   overflow: hidden;
 }
 
-.index-gnb .index-gnb-list
-.index-gnb-list-item {
+.index-gnb .index-gnb-list .index-gnb-list-item {
   float: right;
   margin-right: 30px;
   list-style: none;
 }
 
-.index-gnb .index-gnb-list
-.index-gnb-list-item
-a {
+.index-gnb .index-gnb-list .index-gnb-list-item a {
   text-decoration: none;
   color: black;
+}
+.gnb--flex {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+#rock--image {
+  width: 70px;
+  height: 70px;
+}
+
+nav ul span {
+  font-weight: bold;
+}
+
+.gnb--flex a {
+  text-decoration: none;
 }
