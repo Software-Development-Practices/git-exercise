@@ -31,16 +31,13 @@
   overflow: hidden;
 }
 
-.index-gnb .index-gnb-list
-.index-gnb-list-item {
+.index-gnb .index-gnb-list .index-gnb-list-item {
   float: right;
   margin-right: 30px;
   list-style: none;
 }
 
-.index-gnb .index-gnb-list
-.index-gnb-list-item
-a {
+.index-gnb .index-gnb-list .index-gnb-list-item a {
   text-decoration: none;
   color: black;
 }

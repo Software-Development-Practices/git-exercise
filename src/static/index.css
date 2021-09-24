@@ -1,0 +1,14 @@
+#promise {
+  height: 200px;
+  padding: 16px;
+}
+#promise > p {
+  margin-bottom: 24px;
+  background-color: yellowgreen;
+}
+#cf {
+  padding: 16px;
+}
+#section2 {
+  padding: 16px;
+}
