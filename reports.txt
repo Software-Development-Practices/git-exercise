@@ -1,0 +1,86 @@
+*   5faf74b - Fri, 24 Sep 2021 18:14:47 +0900 (2 minutes ago) (HEAD -> master, origin/master)
+|\            Merge pull request #6 from Software-Development-Practices/seunghwan - 김민수
+| *   26bcfd5 - Fri, 24 Sep 2021 18:13:37 +0900 (3 minutes ago) (origin/seunghwan)
+| |\            Merge remote-tracking branch 'origin/master' into seunghwan - kimsehw
+| |/  
+|/|   
+* |   37975b0 - Fri, 24 Sep 2021 18:08:20 +0900 (8 minutes ago)
+|\ \            Merge pull request #7 from Software-Development-Practices/byoungwook - 김민수
+| * \   9edea5e - Fri, 24 Sep 2021 18:07:20 +0900 (9 minutes ago) (origin/byoungwook)
+| |\ \            Merge remote-tracking branch 'origin/master' into byoungwook - kohj1018
+| |/ /  
+|/| |   
+| | *   e7327a2 - Fri, 24 Sep 2021 18:11:34 +0900 (5 minutes ago)
+| | |\            Merge branch 'master' of https://github.com/Software-Development-Practices/git-exercise into seunghwan - kimsehw
+| |_|/  
+|/| |   
+* | |   e83889d - Fri, 24 Sep 2021 17:53:28 +0900 (23 minutes ago)
+|\ \ \            Merge pull request #4 from Software-Development-Practices/daye - kimdaye77
+| * | | 0df2cad - Fri, 24 Sep 2021 17:44:28 +0900 (32 minutes ago) (origin/daye)
+| | | |           update2 - kimdaye77
+* | | |   f23198e - Fri, 24 Sep 2021 17:51:31 +0900 (25 minutes ago)
+|\ \ \ \            Merge pull request #8 from Software-Development-Practices/nahyun - 김민수
+| * \ \ \   fb5009a - Fri, 24 Sep 2021 17:44:56 +0900 (32 minutes ago) (origin/nahyun)
+| |\ \ \ \            Merge branch 'master' of https://github.com/Software-Development-Practices/git-exercise into nahyun - Nahyun Kim
+| |/ / / /  
+|/| | | |   
+* | | | |   8c88693 - Fri, 24 Sep 2021 17:43:47 +0900 (33 minutes ago)
+|\ \ \ \ \            Merge pull request #3 from Software-Development-Practices/minsoo - 김민수
+| | * \ \ \   5f5dcc5 - Fri, 24 Sep 2021 17:44:52 +0900 (32 minutes ago)
+| | |\ \ \ \            add: person info layout - Nahyun Kim
+| |_|/ / / /  
+|/| | | | |   
+* | | | | |   8d65771 - Fri, 24 Sep 2021 17:38:21 +0900 (38 minutes ago)
+|\ \ \ \ \ \            Merge pull request #5 from Software-Development-Practices/chanhyuk - 김민수
+| * \ \ \ \ \   8115c2a - Fri, 24 Sep 2021 17:36:28 +0900 (40 minutes ago) (origin/chanhyuk)
+| |\ \ \ \ \ \            resolve conflict - Chanhyuk Park
+| |/ / / / / /  
+|/| | | | | |   
+| * | | | | | a768380 - Fri, 24 Sep 2021 17:28:31 +0900 (48 minutes ago)
+| | | | | | |           add people navbar - Chanhyuk Park
+| | | * | | | ee56f33 - Fri, 24 Sep 2021 17:42:08 +0900 (34 minutes ago)
+| |_|/ / / /            add: person info layout - Nahyun Kim
+|/| | | | |   
+| | | | | *   4b85df5 - Fri, 24 Sep 2021 17:51:21 +0900 (25 minutes ago)
+| | | | | |\            modify merge with byoungwook - kimsehw
+| | | | | |/  
+| | | | |/|   
+| | | | * | a0cdab4 - Fri, 24 Sep 2021 17:39:58 +0900 (37 minutes ago)
+| |_|_|/ /            create index.html nav - kohj1018
+|/| | | |   
+| | | | *   4072b2f - Fri, 24 Sep 2021 17:47:51 +0900 (29 minutes ago)
+| | | | |\            modify merge with daye - kimsehw
+| | | | |/  
+| | | |/|   
+| | | * | 6d72ae8 - Fri, 24 Sep 2021 17:38:51 +0900 (38 minutes ago)
+| | | | |           update section - kimdaye77
+| | | * | e5215ea - Fri, 24 Sep 2021 17:20:30 +0900 (56 minutes ago)
+| |_|/ /            add section - kimdaye77
+|/| | |   
+| | | *   ff539e3 - Fri, 24 Sep 2021 17:33:59 +0900 (43 minutes ago)
+| | | |\            Merge branch 'master' of https://github.com/Software-Development-Practices/git-exercise into seunghwan - kimsehw
+| |_|_|/  
+|/| | |   
+* | | |   4d989ff - Fri, 24 Sep 2021 17:17:22 +0900 (59 minutes ago)
+|\ \ \ \            Merge pull request #2 from Software-Development-Practices/nahyun - Nahyun Kim
+| |/ / /  
+|/| | |   
+| * | | a8c2342 - Fri, 24 Sep 2021 17:14:30 +0900 (62 minutes ago)
+| | | |           person info commit - Nahyun Kim
+* | | |   991a3e2 - Fri, 24 Sep 2021 17:12:29 +0900 (64 minutes ago)
+|\ \ \ \            Merge pull request #1 from Software-Development-Practices/minsoo - ChanhyukPark-Tech
+| |/ / /  
+|/| | |   
+| | | * a1e84d3 - Fri, 24 Sep 2021 17:30:02 +0900 (47 minutes ago)
+| |_|/            add commit convention in index.html - kimsehw
+|/| |   
+| | | * 45f6c51 - Fri, 24 Sep 2021 17:55:40 +0900 (21 minutes ago) (origin/minsoo, minsoo)
+| | |/            [추가] idea 설정 폴더 gitignore 에 추가 - minsoo kim
+| | * 2ea8b4b - Fri, 24 Sep 2021 17:13:17 +0900 (63 minutes ago)
+| | |           [추가] README - minsoo kim
+| | * bb27827 - Fri, 24 Sep 2021 17:13:11 +0900 (63 minutes ago)
+| |/            [추가] static images - minsoo kim
+| * 781f329 - Fri, 24 Sep 2021 17:07:19 +0900 (69 minutes ago)
+|/            [추가] nav.css 작업 - minsoo kim
+* 3a4ea0c - Fri, 24 Sep 2021 16:56:47 +0900 (80 minutes ago)
+            [추가] project init - minsoo kim
